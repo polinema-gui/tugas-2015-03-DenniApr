@@ -43,25 +43,25 @@ Partial Class Form1
         '
         Me.AplikasiToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ProblemBintangToolStripMenuItem, Me.MatriksKalkulatorToolStripMenuItem, Me.KeluarToolStripMenuItem})
         Me.AplikasiToolStripMenuItem.Name = "AplikasiToolStripMenuItem"
-        Me.AplikasiToolStripMenuItem.Size = New System.Drawing.Size(54, 20)
+        Me.AplikasiToolStripMenuItem.Size = New System.Drawing.Size(63, 20)
         Me.AplikasiToolStripMenuItem.Text = "Aplikasi"
         '
         'ProblemBintangToolStripMenuItem
         '
         Me.ProblemBintangToolStripMenuItem.Name = "ProblemBintangToolStripMenuItem"
-        Me.ProblemBintangToolStripMenuItem.Size = New System.Drawing.Size(169, 22)
+        Me.ProblemBintangToolStripMenuItem.Size = New System.Drawing.Size(176, 22)
         Me.ProblemBintangToolStripMenuItem.Text = "Problem Bintang"
         '
         'MatriksKalkulatorToolStripMenuItem
         '
         Me.MatriksKalkulatorToolStripMenuItem.Name = "MatriksKalkulatorToolStripMenuItem"
-        Me.MatriksKalkulatorToolStripMenuItem.Size = New System.Drawing.Size(169, 22)
+        Me.MatriksKalkulatorToolStripMenuItem.Size = New System.Drawing.Size(176, 22)
         Me.MatriksKalkulatorToolStripMenuItem.Text = "Matriks Kalkulator"
         '
         'KeluarToolStripMenuItem
         '
         Me.KeluarToolStripMenuItem.Name = "KeluarToolStripMenuItem"
-        Me.KeluarToolStripMenuItem.Size = New System.Drawing.Size(169, 22)
+        Me.KeluarToolStripMenuItem.Size = New System.Drawing.Size(176, 22)
         Me.KeluarToolStripMenuItem.Text = "Keluar"
         '
         'Form1
